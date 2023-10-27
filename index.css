@@ -1,0 +1,42 @@
+h1 {
+  background-color: red;
+}
+
+#unique {
+  color: white;
+}
+
+.header {
+  background-color: violet;
+  border: 1px solid black;
+  padding: 20px;
+  position: relative;
+  left: 10px;
+  right: 10px;
+  top: 10px;
+  margin: 20px;
+}
+
+.header1 {
+  margin: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: pink;
+}
+
+.parent {
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.child {
+  background-color: red;
+  margin: 20px;
+}
+
+span {
+  background-color: green;
+}
